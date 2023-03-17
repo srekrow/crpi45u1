@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,2345.com
+  - DOMAIN-SUFFIX,2345cdn.net
+  - DOMAIN-SUFFIX,hao184.com
+  - DOMAIN-SUFFIX,mediav.com
+  - DOMAIN-SUFFIX,fenxi.com
+  - DOMAIN-SUFFIX,nzbdw.com
+  - DOMAIN-SUFFIX,xnknkj.cn
+  - DOMAIN-SUFFIX,hao.360.com
+  - DOMAIN-SUFFIX,360game.360.cn
+  - DOMAIN-SUFFIX,ad.360.cn
+  - DOMAIN,qurl.f.360.cn
+  - DOMAIN,s.f.360.cn
